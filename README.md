@@ -65,7 +65,7 @@ Bellow is a list of all usable commands, to get more information about Crafty's 
 
 # Team Behind Crafty
 
-Crafty is maintained by two develoers:  
+Crafty is maintained by two developer:  
 [Tj](https://github.com/talle117) - Lead Developer.  
 [Chinese_Marc](https://github.com/ChineseMarc) - Developer  
 
