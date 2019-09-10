@@ -35,13 +35,17 @@ Bellow is a list of all usable commands, to get more information about Crafty's 
 
 >The `Informational ` category contains commands that provide information, statistics and news.
 
-
 `colorcodes`, `mcseen`, `news`, `checkname`, `latest`, `namehistory`, `profile`, `server`, `serverpe`, `status`, `uuid`, `version`
 
 ##### Servers 
 >The `Servers` category contains commands for various Minecraft server such as Hypixel, WynnCraft and HiveMC.
 
 `hive`, `boosters`, `hypixelstats`, `hypixel`, `hypixelwds`, `wynncraft`
+
+##### Configurable 
+>The `Configurable ` category contains commands that provide a level customization for Crafty, options for various automated features and linking for Minecraft usernames and servers.
+
+`account`, `autopost`, `blacklist`, `configuration`, `prefix`, `setserver`
 
 ##### Images 
 >The `Images` category contains commands that provide images for Minecraft skins, achievements and colours.
@@ -58,18 +62,13 @@ Bellow is a list of all usable commands, to get more information about Crafty's 
 
 `aliases`, `credits`, `feedback`, `help`, `invite`, `ping`, `stats`, `tutorial`, `vote`, `whatsnew`
 
-##### Configurable 
->The `Configurable ` category contains commands that provide a level customization for Crafty, options for various automated features and linking for Minecraft usernames and servers.
-
-`account`, `autopost`, `blacklist`, `configuration`, `prefix`, `setserver`
-
 # Team Behind Crafty
 
-Crafty is maintained by two developer:  
+Crafty is maintained by two developers:  
 [Tj](https://github.com/talle117) - Lead Developer.  
 [Chinese_Marc](https://github.com/ChineseMarc) - Developer  
 
 
-© 2019 Crafty Bot. All rights reserved.
+© 2019 Crafty Bot. All rights reserved. Not associated with Mojang.
 
 Currently, Crafty is closed source.
