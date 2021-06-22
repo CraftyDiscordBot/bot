@@ -22,7 +22,7 @@ Crafty is a feature rich Minecraft Discord bot built to provide quality informat
 >  
 >  Check Minecraft's server statuses.
 
-[Website](https://www.craftybot.xyz) **|** [Invite Link](https://discordapp.com/oauth2/authorize?client_id=431402543336390666&scope=bot&permissions=537259072) **|**  [Support Server](https://discord.gg/zB6fEQW)
+[Website](https://crafty.gg/bot) **|** [Invite Link](https://discordapp.com/oauth2/authorize?client_id=431402543336390666&scope=bot&permissions=537259072) **|**  [Support Server](https://discord.gg/zB6fEQW)
 
 ![Crafty](https://discordbots.org/api/widget/431402543336390666.svg)
 ![Crafty](https://botsfordiscord.com/api/bot/431402543336390666/widget)
